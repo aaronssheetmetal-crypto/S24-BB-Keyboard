@@ -5,7 +5,9 @@ Offline BlackBerry-style Android system keyboard designed for Samsung Galaxy S24
 ## Features
 - System-wide Android IME
 - High-contrast BB-inspired keys
-- Flying-word animation when Space is pressed
+- BlackBerry-style predictions displayed above the letter key that continues the word
+- Flick upward from that key to throw the complete predicted word into the text field
+- Offline personal vocabulary learning stored only on the phone
 - Haptic key feedback
 - No Internet permission and no typed-text collection
 - English (Australia), portrait and landscape compatible
